@@ -378,19 +378,6 @@ Architectures such as **LSTM** and **GRU** were designed to improve the network'
 
 Understanding basic RNNs provides an important foundation for studying more advanced sequence models and modern deep-learning architectures.
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome.
-
-If you find an error or want to add another example:
-
-1. Fork the repository
-2. Create a new branch
-3. Make your changes
-4. Commit your changes
-5. Open a pull request
 
 ---
 
